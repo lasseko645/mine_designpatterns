@@ -1,4 +1,4 @@
-package design.singleTon;
+package com.ushulabubko645.design.singleTon;
 
 public class SingleObject {
 

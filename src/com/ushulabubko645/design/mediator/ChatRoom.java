@@ -1,4 +1,4 @@
-package design.Mediator;
+package com.ushulabubko645.design.mediator;
 
 import java.util.Date;
 
